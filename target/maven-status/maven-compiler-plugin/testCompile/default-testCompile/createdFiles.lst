@@ -1,0 +1,5 @@
+org\POM_Pages\PushPaAssignmentIMDBSource.class
+org\POM_Pages\PushPaAssignmentWickipedeaSource.class
+org\POM_TestCases\PushpaAssignmentIMDBSourceTC.class
+org\POM_TestCases\PushpaAssignmentWickiPediaSourceTC.class
+org\genericMethods\GenericMethods.class
