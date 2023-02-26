@@ -13,7 +13,7 @@ public class PushPaAssignmentWickipedeaSource {
 	@FindBy(xpath = "/html/body/div/div/div[3]/main/div[2]/div[3]/div/table/tbody/tr[12]/td/div/ul/li")
 	private WebElement releaseDate;
 
-	@FindBy(xpath = "/html/body/div/div/div[3]/main/div[2]/div[3]/div/table/tbody/tr[14]/td")
+	@FindBy(xpath = "//td[text()='India']")
 	private WebElement country;
 
 	// constructor

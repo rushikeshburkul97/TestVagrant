@@ -14,16 +14,16 @@
       <![CDATA[release date is =17 December 2021]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-02-26T22:17:49 IST" name="PushPaAssignments" finished-at="2023-02-26T22:18:12 IST" duration-ms="23511">
+  <suite started-at="2023-02-26T22:53:13 IST" name="PushPaAssignments" finished-at="2023-02-26T22:53:40 IST" duration-ms="27471">
     <groups>
     </groups>
-    <test started-at="2023-02-26T22:17:49 IST" name="Test" finished-at="2023-02-26T22:18:12 IST" duration-ms="23511">
+    <test started-at="2023-02-26T22:53:13 IST" name="Test" finished-at="2023-02-26T22:53:40 IST" duration-ms="27471">
       <class name="org.POM_TestCases.PushpaAssignmentIMDBSourceTC">
-        <test-method is-config="true" signature="OpenWikiWithPushpa()[pri:0, instance:org.POM_TestCases.PushpaAssignmentIMDBSourceTC@478190fc]" started-at="2023-02-26T22:17:49 IST" name="OpenWikiWithPushpa" finished-at="2023-02-26T22:18:07 IST" duration-ms="18356" status="PASS">
+        <test-method is-config="true" signature="OpenWikiWithPushpa()[pri:0, instance:org.POM_TestCases.PushpaAssignmentIMDBSourceTC@38c6f217]" started-at="2023-02-26T22:53:13 IST" name="OpenWikiWithPushpa" finished-at="2023-02-26T22:53:29 IST" duration-ms="16662" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenWikiWithPushpa -->
-        <test-method signature="verifyMovieInformation()[pri:0, instance:org.POM_TestCases.PushpaAssignmentIMDBSourceTC@478190fc]" started-at="2023-02-26T22:18:07 IST" name="verifyMovieInformation" finished-at="2023-02-26T22:18:07 IST" duration-ms="205" status="PASS">
+        <test-method signature="verifyMovieInformation()[pri:0, instance:org.POM_TestCases.PushpaAssignmentIMDBSourceTC@38c6f217]" started-at="2023-02-26T22:53:29 IST" name="verifyMovieInformation" finished-at="2023-02-26T22:53:30 IST" duration-ms="507" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[country name is =India]]>
@@ -33,17 +33,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- verifyMovieInformation -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.POM_TestCases.PushpaAssignmentIMDBSourceTC@478190fc]" started-at="2023-02-26T22:18:07 IST" name="CloseBrowser" finished-at="2023-02-26T22:18:08 IST" duration-ms="326" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.POM_TestCases.PushpaAssignmentIMDBSourceTC@38c6f217]" started-at="2023-02-26T22:53:30 IST" name="CloseBrowser" finished-at="2023-02-26T22:53:31 IST" duration-ms="642" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
       </class> <!-- org.POM_TestCases.PushpaAssignmentIMDBSourceTC -->
       <class name="org.POM_TestCases.PushpaAssignmentWickiPediaSourceTC">
-        <test-method is-config="true" signature="OpenWikiWithPushpa()[pri:0, instance:org.POM_TestCases.PushpaAssignmentWickiPediaSourceTC@1283bb96]" started-at="2023-02-26T22:18:08 IST" name="OpenWikiWithPushpa" finished-at="2023-02-26T22:18:11 IST" duration-ms="3530" status="PASS">
+        <test-method is-config="true" signature="OpenWikiWithPushpa()[pri:0, instance:org.POM_TestCases.PushpaAssignmentWickiPediaSourceTC@6aeb35e6]" started-at="2023-02-26T22:53:31 IST" name="OpenWikiWithPushpa" finished-at="2023-02-26T22:53:38 IST" duration-ms="7190" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenWikiWithPushpa -->
-        <test-method signature="verifyMovieInformation()[pri:0, instance:org.POM_TestCases.PushpaAssignmentWickiPediaSourceTC@1283bb96]" started-at="2023-02-26T22:18:11 IST" name="verifyMovieInformation" finished-at="2023-02-26T22:18:12 IST" duration-ms="389" status="PASS">
+        <test-method signature="verifyMovieInformation()[pri:0, instance:org.POM_TestCases.PushpaAssignmentWickiPediaSourceTC@6aeb35e6]" started-at="2023-02-26T22:53:38 IST" name="verifyMovieInformation" finished-at="2023-02-26T22:53:38 IST" duration-ms="571" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[country name is =India]]>
@@ -53,7 +53,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- verifyMovieInformation -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.POM_TestCases.PushpaAssignmentWickiPediaSourceTC@1283bb96]" started-at="2023-02-26T22:18:12 IST" name="CloseBrowser" finished-at="2023-02-26T22:18:12 IST" duration-ms="622" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.POM_TestCases.PushpaAssignmentWickiPediaSourceTC@6aeb35e6]" started-at="2023-02-26T22:53:38 IST" name="CloseBrowser" finished-at="2023-02-26T22:53:40 IST" duration-ms="1744" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
